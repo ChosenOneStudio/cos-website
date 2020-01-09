@@ -27,12 +27,7 @@ const useLanguage = defLanguage => {
       // i18n.addResource(language, 'translation', langJson);
     }
 
-    setLanguage(prevLang => {
-      if (prevLang !== language) {
-        i18n.changeLanguage(language);
-      }
-      return language;
-    });
+    setLanguage(language);
   };
 
   return { language, changeLanguage };
