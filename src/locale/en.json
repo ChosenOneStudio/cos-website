@@ -1,0 +1,10 @@
+{
+  "title": "Chosen One Studio",
+  "contact": "contact us",
+  "about": "about us",
+  "select_language": "select language",
+  "locale": {
+    "zh-TW": "Traditional Chinese",
+    "en": "English"
+  }
+}
