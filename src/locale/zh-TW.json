@@ -1,0 +1,10 @@
+{
+  "title": "Chosen One Studio",
+  "contact": "聯絡我們",
+  "about": "關於我們",
+  "select_language": "選擇語系",
+  "locale": {
+    "zh-TW": "繁體中文",
+    "en": "英文"
+  }
+}
